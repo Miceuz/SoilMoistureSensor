@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2013-02-14 BZR 3950)-testing date = Sunday, 2013 March 17 18:48:40
+
+BeginCmp
+TimeStamp = /510F93B8;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /510FC38E;
+Reference = C2;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /510FC33C;
+Reference = C3;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5110DFD4;
+Reference = C4;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5110DFCA;
+Reference = C5;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51114A70;
+Reference = C6;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51114A50;
+Reference = C7;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51114A9A;
+Reference = C8;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51114AA6;
+Reference = C9;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51114B6C;
+Reference = C10;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51114B78;
+Reference = C11;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /511166FD;
+Reference = C12;
+ValeurCmp = C_0603;
+IdModule  = c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5123BE6C;
+Reference = C13;
+ValeurCmp = 10uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5123BE74;
+Reference = C14;
+ValeurCmp = 10uF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51460777;
+Reference = IC1;
+ValeurCmp = MCP1700;
+IdModule  = v-reg-2-SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /510FAAF4;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = pinhead-1-1X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /510F9355;
+Reference = R1;
+ValeurCmp = R_0603;
+IdModule  = m-pad-2.1-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /510F9396;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = m-pad-2.1-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /510FA01D;
+Reference = U1;
+ValeurCmp = 74LVC1G86W5;
+IdModule  = m-pad-2.1-SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5110D3EA;
+Reference = U2;
+ValeurCmp = 74LVC1G125;
+IdModule  = m-pad-2.1-SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5110D98A;
+Reference = U3;
+ValeurCmp = MCP6L01UT;
+IdModule  = m-pad-2.1-SOT23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /510F88B2;
+Reference = X1;
+ValeurCmp = OSCILLATORS-4;
+IdModule  = m-pad-2.1-CB3_CB3LV;
+EndCmp
+
+EndListe
